@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: IM Fell French Canon SC;
+}
+
+header{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+body{
+    background: linear-gradient(0deg,#98BFD0,#E8F5FF,#6BAEC8)
+}
+
+
+img{
+    width: 50px;
+    height: 50px;
+    
+}
+.cat_img{
+    width: 500px;
+    height: 500px;
+    border-radius: 15px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+main{
+    display: flex;
+}
+
+
